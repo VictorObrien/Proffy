@@ -4,13 +4,13 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/VictorObrien/proffy?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorObrien/proffy?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/VictorObrien/Proffy?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorObrien/Proffy?style=flat-square">
    <a aria-label="Repositórios Git" href="https://github.com/VictorObrien/">
     <img src="https://img.shields.io/badge/Github-VictorObrien-success?logo=github"></img>
   </a>
-  <a aria-label="LinkedIn" href="https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/">
-    <img src="http://img.shields.io/badge/LinkedIn-/PauloVictor-informational?logo=linkedin"></img>
+  <a aria-label="LinkedIn" href="https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/?style=flat-square">
+    <img src="http://img.shields.io/badge/LinkedIn-/PauloVictor-informational?logo=linkedin?style=flat-square"></img>
   </a> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square">  
 </p>
