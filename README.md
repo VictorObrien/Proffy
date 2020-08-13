@@ -9,7 +9,7 @@
    <a aria-label="Repositórios Git" href="https://github.com/VictorObrien/">
     <img src="https://img.shields.io/badge/Github-VictorObrien-success?logo=github"></img>
   </a>
-  <a aria-label="LinkedIn" href="https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/?style=flat-square">
+  <a aria-label="LinkedIn" href="https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/">
     <img src="http://img.shields.io/badge/LinkedIn-/PauloVictor-informational?logo=linkedin?style=flat-square"></img>
   </a> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square">  
@@ -55,7 +55,7 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/VictorObrien/proffy.git
+  $ git clone https://github.com/VictorObrien/Proffy.git
 ```
 
 2. Executando a Aplicação:
@@ -92,4 +92,4 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
+<sup>Projeto desenvolvido por [Paulo Victor](https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/) com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
